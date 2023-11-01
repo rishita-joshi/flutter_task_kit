@@ -1,7 +1,8 @@
-# flutter_iterview_task
+# firebase_CRUD
 
-A new Flutter project.
 
+this repo contains firebase CRUD opration also image uploading and that link should be add into database .
+firebase login , signup 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
